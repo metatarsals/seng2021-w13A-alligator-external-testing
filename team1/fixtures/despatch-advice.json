@@ -1,0 +1,21 @@
+{
+  "validDespatchAdvice": {
+    "supplierParty": "Supplier Co.",
+    "customerParty": "Customer Co.",
+    "items": [
+      { "id": "item-1", "quantity": 10 }
+    ]
+  },
+  "updatedDespatchAdvice": {
+    "supplierParty": "Updated Supplier",
+    "customerParty": "Updated Customer",
+    "items": [
+      { "id": "item-1", "quantity": 5 }
+    ]
+  },
+  "missingSupplier": {
+    "customerParty": "Customer Co.",
+    "items": []
+  },
+  "emptyBody": {}
+}
